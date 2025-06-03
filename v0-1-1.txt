@@ -1,0 +1,6 @@
+- v0.1.1: Implement OAuth 2.0 with PKCE (Proof Key for Code) authentication
+- Convert a Pandas DataFrame or Series to a JSON-compatible dictionary.
+- Args:
+    data: Pandas DataFrame or Series object.
+- Returns:
+        dict: JSON-compatible dictionary representation of the data.
