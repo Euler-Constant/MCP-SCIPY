@@ -8,6 +8,7 @@ def authenticate_request(request):
     Returns:
         bool: True if authenticated, False otherwise.
     """
-    # Placeholder: Implement OAuth 2.0 with PKCE authentication
+    # v0.1.1: Implement OAuth 2.0 with PKCE authentication
+    
     # For now, return True to allow development
     return True
